@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.09 Вступ EF CORE", "02.09 Вступ EF CORE\02.09 Вступ EF CORE.csproj", "{3FB6E3AA-8B7D-49B2-A065-977F3CEA0193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FB6E3AA-8B7D-49B2-A065-977F3CEA0193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB6E3AA-8B7D-49B2-A065-977F3CEA0193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB6E3AA-8B7D-49B2-A065-977F3CEA0193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB6E3AA-8B7D-49B2-A065-977F3CEA0193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06FAB36A-6A57-4864-A9CD-5A4C54281D5D}
+	EndGlobalSection
+EndGlobal
